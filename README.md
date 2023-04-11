@@ -1,1 +1,2 @@
-"# kiii-github-actions" 
+Sample Project for KIII Course
+
